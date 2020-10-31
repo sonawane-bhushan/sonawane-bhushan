@@ -43,12 +43,11 @@ Here are some ideas to get you started:
 
 </details>
 
----
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=bhushan98.bhushan98"/>
 </p>
 [twitter]: https://twitter.com/imb_sonawane
 [instagram]: https://instagram.com/bhushan__sonawane
 [linkedin]: https://www.linkedin.com/in/bhushan-sonawane-28304a149
-[github]: https://github.com/bhushan98
+[github]: https://github.com/bhushan98 
 
