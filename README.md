@@ -2,8 +2,8 @@
 
 ### I'm a developer !!!
 
-I like experimenting with technologies, building small projects
-
+I like experimenting with technologies, building small projects 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
 Here are some ideas to get you started:
