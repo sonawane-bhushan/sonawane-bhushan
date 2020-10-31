@@ -2,11 +2,13 @@
 
 ### I'm a developer !!!
 
+I like experimenting with technologies, building small projects
+
 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working as Software Developer at Capgemini
 - 🌱 I’m currently learning everything
 - ⚡ Fun fact: I love to draw and read novels
 - 🥅 2020 Goals: Contribute to Open Source projects
