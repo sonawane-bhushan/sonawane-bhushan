@@ -9,13 +9,23 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning everything
 - ⚡ Fun fact: I love to draw and read novels
-
+- 🥅 2020 Goals: Contribute to Open Source projects
 
 ### Connect with me:
 
 [<img align="left" alt="bhushan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="bhushan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="bhushan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
+
+[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />]
 
 <br />
 
