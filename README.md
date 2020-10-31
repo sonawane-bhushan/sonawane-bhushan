@@ -1,4 +1,4 @@
-### Hi there 👋, I'am Bhushan
+### Hi there 👋, I'm Bhushan
 
 ### I'm a developer !!!
 
@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning everything
 - ⚡ Fun fact: I love to draw and read novels
 
@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="bhushan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="bhushan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br/>
+<br />
 
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
