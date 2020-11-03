@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bhushan
+### Hi there <img src="https://github.com/bhushan98/bhushan98/blob/main/wave.gif" width="30px">, I'm Bhushan
 
 ### I'm a developer !!!
 
