@@ -9,8 +9,7 @@ I like experimenting with technologies, building small projects
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as Software Developer at Capgemini
-- 🌱 I’m currently learning kubernetes
-- ⚡ Fun fact: I love to draw and read novels
+- 🌱 I’m currently learning kubernetes & Node.js
 - 🥅 2021 Goals: Contribute to Open Source projects
 
 ### Connect with me:
