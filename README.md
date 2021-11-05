@@ -6,8 +6,7 @@ I like experimenting with technologies, building small projects
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
-- 🔭 I’m currently working as Software Developer at Capgemini
-- 🌱 I’m currently learning kubernetes & Node.js
+- 🔭 I’m currently working as Software Developer
 - 🥅 2021 Goals: Contribute to Open Source projects
 
 ### Connect with me:
