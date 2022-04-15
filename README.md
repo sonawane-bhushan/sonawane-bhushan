@@ -7,7 +7,7 @@ I like experimenting with technologies, building small projects
 
 
 - 🔭 I’m currently working as Software Developer
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source projects
 
 ### Connect with me:
 
