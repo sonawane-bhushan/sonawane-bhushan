@@ -7,7 +7,6 @@ I like experimenting with technologies, building small projects
 
 
 - 🔭 I’m currently working as Software Developer
-- 🥅 2022 Goals: Contribute to Open Source projects
 
 ### Connect with me:
 
@@ -49,10 +48,6 @@ I like experimenting with technologies, building small projects
 
 </details>
 
-
-
-
-[instagram]: https://instagram.com/bhushan__sonawane
 [linkedin]: https://www.linkedin.com/in/bhushan-sonawane-28304a149
 [github]: https://github.com/bhushan98 
 
